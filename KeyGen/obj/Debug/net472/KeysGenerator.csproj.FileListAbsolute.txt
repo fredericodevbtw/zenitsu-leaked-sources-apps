@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\KeyGen\bin\Debug\net472\KeysGenerator.exe.config
+C:\Users\USER\Documents\KeyGen\bin\Debug\net472\KeysGenerator.exe
+C:\Users\USER\Documents\KeyGen\bin\Debug\net472\KeysGenerator.pdb
+C:\Users\USER\Documents\KeyGen\obj\Debug\net472\KeysGenerator.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\KeyGen\obj\Debug\net472\KeysGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\KeyGen\obj\Debug\net472\KeysGenerator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\KeyGen\obj\Debug\net472\KeysGenerator.exe
+C:\Users\USER\Documents\KeyGen\obj\Debug\net472\KeysGenerator.pdb
