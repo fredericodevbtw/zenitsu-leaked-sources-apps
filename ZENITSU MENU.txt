@@ -86,7 +86,7 @@ localplrsec:addButton("Invisfling", function()
                 
         spawn(function()
         local message = Instance.new("Message",workspace)
-        message.Text = "Fe Invisible Fling feito por ZENITSU MENU Loaded (wait 2 seconds to load)"
+        message.Text = "Fe Invisible Fling feito por ZENITSU MENU Loaded (wait 2 seconds to load)" -- he changed this text to make the script say that was made by him, but it was not, he is just a skidder... | ele mudou esse texto para fazer o código dizer que foi feito por ele, mas não foi, ele é apenas um skidder...
         wait(2)
         message:Destroy()
         end)
